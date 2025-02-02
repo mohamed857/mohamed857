@@ -8,7 +8,7 @@
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="380" height="280">
 
 ## 🚀 About Me
-I'm an enthusiastic **Angular Developer** with a passion for building dynamic and interactive web applications. I love turning complex problems into simple, beautiful, and intuitive solutions.
+Skilled Full Stack Developer with expertise in Java, Angular, and Spring. Experienced in both front-end and back-end development, with a strong foundation in OOP, data structures, and algorithms. Proficient in building scalable applications using technologies like Node.js, Spring Boot, and Angular. Committed to delivering high-quality, maintainable code and collaborating effectively in team-driven environments.
  <p> ## 📫 Let's Connect: You can email me at elcessym@gmail.com </p>
 <img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width= 45% height=95px>
 
