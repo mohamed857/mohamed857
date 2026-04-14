@@ -1,68 +1,116 @@
----
-# 👋 Hello, I'm Mohamed Ramadan
+markdown
+<div align="center">
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=F75C7E&lines=Java+Spring+Boot+Developer;Backend+Engineer;Full+Stack+Developer)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=6DB33F&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Mohamed+Ramadan;Java+%26+Spring+Boot+Developer;Backend+Engineer+%7C+Full-Stack+Developer;3%2B+Years+of+Professional+Experience)](https://git.io/typing-svg)
 
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="380" height="280">
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="320" alt="Coding GIF"/>
 
-## 🚀 About Me
-Experienced **Java Spring Boot Developer** passionate about crafting scalable, secure, and high-performance backend systems.  
-Skilled in **Spring Boot, Spring Security, JPA/Hibernate, and RESTful APIs**, with strong knowledge of **OOP, data structures, and design patterns**.  
-Comfortable working across the full stack — from building robust APIs to developing responsive frontends with **Angular**.  
-Committed to writing clean, maintainable code and continuously learning new technologies to stay ahead in the field.
-
-<p>📫 **Let's Connect:** You can email me at <a href="mailto:elcessym@gmail.com">elcessym@gmail.com</a></p>
-
-<img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width="45%" height="95px" />
-
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</div>
 
 ---
 
-## 🛠 Tech Stack
+## 👨‍💻 About Me
 
-### 🧩 Backend Development
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-4DB33D?style=for-the-badge&logo=springsecurity&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white)
+```yaml
+Name        : Mohamed Ramadan Hassan
+Title       : Java & Full-Stack Developer
+Location    : Cairo, Egypt 🇪🇬
+Experience  : 3+ Years in Backend & Full-Stack Development
+Education   : B.Sc. Computer Science — Ain Shams University (2022)
+Email       : elcessym@gmail.com
+LinkedIn    : linkedin.com/in/mohamed-ramadan-cc
+GitHub      : github.com/mohamed857
+🔭 Experienced in building scalable RESTful APIs with Spring Boot
+🛡️ Skilled in Spring Security, JWT Authentication, and OAuth2
+🗄️ Strong database background — MySQL, PostgreSQL, MongoDB, SQL Server
+🌐 Full-stack capability with Angular & TypeScript
+⚡ Contributed to 20+ APIs & improved system performance by ~25%
+👥 Delivered features for systems serving 1,000+ daily users
+📚 Fast self-learner, clean code advocate, and team player
+🛠️ Tech Stack
+☕ Backend
+Java
+Spring Boot
+Spring Security
+Spring MVC
+Hibernate
+REST API
+JWT
+OAuth2
 
-### 🧠 Database & Tools
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+🗄️ Databases
+MySQL
+PostgreSQL
+MongoDB
+SQL Server
 
-### 💻 Frontend (Basics)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+🌐 Frontend
+Angular
+TypeScript
+JavaScript
+HTML5
+CSS3
+Bootstrap
+Angular Material
 
----
+🧰 Tools & Practices
+Git
+GitHub
+Maven
+Postman
 
-## 🌟 Featured Projects
+💼 Professional Experience
+🏢 Java Developer — KartNGo (Apr 2022 – Feb 2024)
+Software development and technology solutions company
 
-- **Spring E-Commerce API**
-  - RESTful API for an online shopping platform built with Spring Boot 3.
-  - Implemented CRUD operations, image upload/download, and search filters.
-  - Integrated JPA, Hibernate, and Lombok for ORM and clean code.
+✅ Developed and maintained 15+ RESTful APIs using Java & Spring Boot
+⚡ Improved backend performance by ~25% via refactoring & query optimization
+👥 Contributed to systems serving 1,000+ daily users
+🎮 Built UI components using LibGDX and GWT for internal tools
+🤝 Collaborated within a 5+ developer cross-functional team
+🏢 VB Developer — Candles Company (Apr 2024 – Jan 2025)
+Desktop and web systems development — Part-Time
 
-- **Job Posting Management System**
-  - Secure REST API using Spring Security and JWT authentication.
-  - Implemented role-based access and user management.
-  - Angular-based frontend with modern UI design.
+🖥️ Developed and maintained 5+ desktop applications using VB.NET
+🗄️ Designed SQL Server databases & reduced query execution time by 20%
+🔐 Implemented role-based access control for 3+ user roles
+📊 Created and integrated 10+ Crystal Reports for business reporting
+🔧 Debugged and enhanced legacy systems for better stability
+🚀 Featured Projects
+📋 Job Posting Management System
+Secure RESTful backend with Angular frontend
 
----
+🔐 Built secure REST API using Spring Boot + Spring Security
+🎫 Implemented JWT authentication & BCrypt password encoding
+🗄️ CRUD operations optimized via Spring Data JPA
+🌐 Integrated Angular frontend for job & user management
+🛒 Spring E-Commerce API
+Scalable online shopping backend
 
-## 🤝 Connect With Me
+🏗️ Developed RESTful APIs with Spring Boot 3 for full e-commerce operations
+🔍 Implemented dynamic product search & image upload/download
+📐 Applied layered architecture, DTOs, and global exception handling
+✅ All endpoints fully tested via Postman
+🔒 Spring Security JWT Authentication System
+Stateless authentication system
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-ramadan-cc)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohamed857)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elcessym@gmail.com)
-[![Whatsapp](https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=201123311616)
----
+🎫 JWT-based authentication integrated with Spring Security
+🔑 Configured DaoAuthenticationProvider & BCryptPasswordEncoder
+🗄️ Integrated PostgreSQL with Spring Data JPA for user & role management
+📊 GitHub Stats
+Mohamed's GitHub Stats
+
+Top Languages
+
+GitHub Streak
+
+🤝 Connect With Me
+LinkedIn
+GitHub
+Gmail
+WhatsApp
+
+Profile Views
+
+"Clean code always looks like it was written by someone who cares."
+```
